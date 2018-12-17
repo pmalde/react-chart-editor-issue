@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "plotly.js": "^1.42.5",
+    "prop-types": "^15.6.2",
     "react": "^16.6.3",
+    "react-chart-editor": "^0.33.4",
     "react-dom": "^16.6.3",
+    "react-plotly.js": "^2.2.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
